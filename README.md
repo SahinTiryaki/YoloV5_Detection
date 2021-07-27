@@ -10,8 +10,6 @@ https://user-images.githubusercontent.com/59391291/127202907-dbd73224-2889-4e8c-
 ## Data
 https://public.roboflow.com/object-detection/self-driving-car
 
-![bOFkueI](https://user-images.githubusercontent.com/59391291/127199957-794b2a4b-c6ef-4dbe-92b1-4f9bd6d388f5.png)
-
 
 ## Model 
 Yolov5s
