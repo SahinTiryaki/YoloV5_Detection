@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/59391291/127202907-dbd73224-2889-4e8c-
 
 
 
-**full video:** https://drive.google.com/file/d/1YJc9fRud4CY0nvHXrjhViUSPwMzl8RNb/view?usp=sharing <br>
+**Full video:** https://drive.google.com/file/d/1YJc9fRud4CY0nvHXrjhViUSPwMzl8RNb/view?usp=sharing <br>
 **Source video:** https://www.youtube.com/watch?v=PSf09R3D7Lo&list=LL&index=1
 
 ## Data
