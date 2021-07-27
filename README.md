@@ -1,2 +1,2 @@
 YoloV5 detection
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/SahinTiryaki/YoloV5-Detection/blob/main/video.mp4)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://drive.google.com/file/d/1YJc9fRud4CY0nvHXrjhViUSPwMzl8RNb/view?usp=sharing)
