@@ -14,6 +14,7 @@ https://public.roboflow.com/object-detection/self-driving-car
 
 
 ## Model 
+Yolov5s
 ![indir (1)](https://user-images.githubusercontent.com/59391291/127199670-89ac25e2-df24-45aa-ae02-d8db2163acb4.png)
 
 ## Result
